@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>個人網頁</title>
+    <style>
+        body {
+            background-color: #fde2e4; /* 粉紅色 */
+            font-family: Arial, sans-serif;
+        }
+
+        .info {
+            margin-top: 50px;
+        }
+
+        .poem-link {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="info">
+        <p>學號: 40818258</p>
+        <p>姓名: 許郡祐</p>
+    </div>
+
+    <div class="poem-link">
+        <p><a href="poem1.html">李白的作品: 將進酒</a></p>
+        <p><a href="poem2.html">劉禹錫的作品: 烏衣巷</a></p>
+    </div>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>李白的作品: 將進酒</title>
+    <style>
+        body {
+            background-color: #ffd700; /* 粉黃色 */
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            color: blue;
+            font-size: 48px;
+        }
+
+        p {
+            color: green;
+            font-size: 24px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>將進酒</h1>
+    <p>君不見，黃河之水天上來，奔流到海不復回。</p>
+    <!-- 詩的內容省略，您可以在這裡加入完整的詩歌內容 -->
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>劉禹錫的作品: 烏衣巷</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>烏衣巷</h1>
+    <p>烏衣巷深深深幾許，曲江池水清清清幾許。</p>
+    <!-- 詩的內容省略，您可以在這裡加入完整的詩歌內容 -->
+</body>
+
+</html>
